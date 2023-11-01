@@ -31,3 +31,9 @@ I study and update myself in the area constantly. I love learning new things and
 
 [![Repo to-do-list](https://github-readme-stats.vercel.app/api/pin/?username=mari4souza&repo=to-do-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mari4souza/to-do-list)
 [![Repo veterinarian-registration-system](https://github-readme-stats.vercel.app/api/pin/?username=mari4souza&repo=veterinarian-registration-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mari4souza/veterinarian-registration-system)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
