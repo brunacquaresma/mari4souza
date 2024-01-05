@@ -1,8 +1,10 @@
-# Maria Eduarda Cardoso de Souza
+# Olá! Eu sou a Maria Eduarda ✨
 
-Hello world! ✨ Currently a system analysis and development student, but I have already completed two years of computer science. 
-
-I study and update myself in the area constantly. I love learning new things and creating technological solutions, that's what moves me!
+<p align='justify'>
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
+Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. 
+Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+</p>
 
 ### Connect with me!
 
